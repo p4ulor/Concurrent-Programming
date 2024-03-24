@@ -1,0 +1,2 @@
+- https://www.baeldung.com/java-exchanger
+- https://java2blog.com/java-exchanger-example/
