@@ -1,5 +1,5 @@
 # Concurrent-Programming
-Stuff about concurrent, asynchronous and parallel programming. Using java, C# and kotlin
+Stuff about concurrent, asynchronous and parallel programming. Using java, C# and kotlin. A very hard curricular subject to do. I'm not liable for any data lass or injuries from the lack of thread safety of my solutions. But atleast I wrote some tests  (in the s2223-2-leic41n assingments)
 
 - [Producer–consumer or bounded-buffer problem](https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem)
 - [Critical Section](https://en.wikipedia.org/wiki/Critical_section)
